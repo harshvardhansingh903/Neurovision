@@ -1,0 +1,18 @@
+{
+  "emotions": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "img_size": [
+    48,
+    48
+  ],
+  "dataset_path": "archive/processed_data",
+  "epochs_trained": 50,
+  "batch_size": 32
+}
