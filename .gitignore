@@ -44,6 +44,11 @@ yarn-error.log
 frontend/dist/
 frontend/build/
 
+# Large datasets and training data
+backend/archive/processed_data/
+*.h5
+models/emotion_model.h5
+
 # Environment
 .env
 .env.local
